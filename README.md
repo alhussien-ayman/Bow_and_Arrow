@@ -2,8 +2,8 @@
 
 Welcome to **Bow and Arrow**, a 2D archery game developed using **Java** and the **Processing** language. This game demonstrates **Object-Oriented Programming (OOP)** principles and offers a fun, interactive shooting experience!
 
-![Game Screenshot](images/game_screenshot.png)
-
+![Game Screenshot](out/production/Mndra/lvl0.jpg)
+![Game Screenshot](out/production/Mndra/lvl0.jpg)
 ---
 
 ## 🕹️ Gameplay Overview
