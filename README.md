@@ -31,15 +31,4 @@ Welcome to **Bow and Arrow**, a 2D archery game developed using **Java** and the
 - **Processing (p5)** – for graphics and interaction
 - **Object-Oriented Programming**
 
----
-
-## 👥 Team Name: *ArrowTech*
-
-### 👤 Team Members:
-- Alhussien Ayman *(Team Lead / Developer)*
-- [Add other names here...]
-
----
-
-## 📂 Project Structure
 
